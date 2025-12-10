@@ -1,0 +1,12 @@
+name: CI
+
+on:
+  push:
+  brnaches: [ main ]
+
+
+jobs:
+ test:
+  name: test on Node.jobs
+  runs-on: unbuntu-latest
+

@@ -6,7 +6,7 @@ on:
 
 
 jobs:
- test:
+ test: 
   name: test on Node.jobs
   runs-on: unbuntu-latest
 

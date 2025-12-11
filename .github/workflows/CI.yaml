@@ -2,8 +2,8 @@ name: CI
 
 on:
   push:
-  brnaches: 
-    -main 
+   brnaches: 
+    -master
 
 
 jobs:
